@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Michael's github stats](https://github-readme-stats.vercel.app/api?username=mjyocca&show_icons=true&theme=tokyonight)
+
 <!--
 **mjyocca/mjyocca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
