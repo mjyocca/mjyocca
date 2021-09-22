@@ -73,12 +73,26 @@
 </details>
 
 
+<details>
+<summary>Npm Packages (4)</summary>
+
+<br />
+
+![async-parallel-limit](https://github-readme-stats.vercel.app/api/pin/?username=mjyocca&theme=dark&repo=async-parallel-limit)
+![sfdx-deploy-webpack-plugin](https://github-readme-stats.vercel.app/api/pin/?username=mjyocca&theme=dark&repo=sfdx-deploy-webpack-plugin)
+![visualforce-template-webpack-plugin](https://github-readme-stats.vercel.app/api/pin/?username=mjyocca&theme=dark&repo=visualforce-template-webpack-plugin)
+![static-resource-webpack-plugin](https://github-readme-stats.vercel.app/api/pin/?username=mjyocca&theme=dark&repo=static-resource-webpack-plugin)
+
+
+</details>
+
+
 <details open>
 <summary><span >Github Stats</span></summary>
 <br />
 <div>
-<img alt="Michael's github stats" src="https://github-readme-stats.vercel.app/api?username=mjyocca&show_icons=true&theme=tokyonight" />
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjyocca&layout=compact&exclude_repo=apex-query&theme=tokyonight">
+<img alt="Michael's github stats" src="https://github-readme-stats.vercel.app/api?username=mjyocca&show_icons=true&theme=github_dark" />
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjyocca&layout=compact&exclude_repo=apex-query&theme=github_dark">
 </div>
 </details>
 
