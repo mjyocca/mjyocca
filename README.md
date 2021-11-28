@@ -92,7 +92,7 @@
 <br />
 <div>
 <img alt="Michael's github stats" src="https://github-readme-stats.vercel.app/api?username=mjyocca&show_icons=true&theme=github_dark" />
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjyocca&layout=compact&exclude_repo=apex-query&theme=github_dark">
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjyocca&layout=compact&theme=github_dark&langs_count=10">
 </div>
 </details>
 
