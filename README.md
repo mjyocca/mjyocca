@@ -19,8 +19,7 @@
 <br />
 
 <div align="center"></div>
-<p align="center">I'm a passionate self-taught, fullstack web developer from Southern California</p>
-<p align="center">Currently working at AscentCloud as their Lead Software Developer</p>
+<p align="center">I'm a passionate self-taught, fullstack developer from Southern California</p>
 <hr />
 
 
