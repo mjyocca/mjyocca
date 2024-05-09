@@ -3,34 +3,40 @@
 
 <!-- Contact Icons  -->
 <div align="center">
-  <a align="center" href="https://www.linkedin.com/in/michaelyocca/">
-    <img align="center" alt="LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" >
+  <a target="_blank" align="center" href="https://www.linkedin.com/in/michaelyocca/">
+    <img align="center" alt="LinkedIN" width="30px" src="https://cdn.simpleicons.org/linkedin" />
   </a>
-  <a target="_blank" href="https://twitter.com/Mjyocca">
-    <img align="center" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <a target="_blank" align="center" href="https://www.instagram.com/michaelyocca.dev/">
+    <img align="center" alt="Instagram" width="30px" src="https://cdn.simpleicons.org/instagram" />
+  </a>
+  <a target="_blank" align="center" href="https://www.threads.net/@michaelyocca.dev">
+    <img align="center" alt="Instagram" width="30px" src="https://cdn.simpleicons.org/threads/white" />
   </a>
   <a target="_blank" href="https://www.youtube.com/channel/UCE1TAX00aathF9PvzOzeRXA">
-    <img align="center" alt="Youtube" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+    <img align="center" alt="Youtube" width="30px" src="https://cdn.simpleicons.org/youtube" />
   </a>
-  <a href="https://michaelyocca.io/blog">
+  <a target="_blank" href="https://twitter.com/Mjyocca">
+    <img align="center" alt="Twitter" width="30px" src="https://cdn.simpleicons.org/x/white" />
+  </a>
+  <a href="https://michaelyocca.dev/blog">
   <img align="center" src="https://img.shields.io/badge/-Blog-blue?style=for-the-badge&logo=" /></a>
 </div>
 
 <br />
 
 <div align="center"></div>
-<p align="center">Fullstack, Cloud, Infrastructure, DevOps</p>
-<hr />
+  <p align="center">Fullstack, Cloud, Infrastructure, DevOps</p>
+  <hr />
 
 <details open>
   <summary>Templates</summary>
 
   <img alt="go-cli" src="https://github-readme-stats.vercel.app/api/pin/?username=mjyocca&theme=dark&repo=go-cli" />
   <img alt="go-cli" src="https://github-readme-stats.vercel.app/api/pin/?username=mjyocca&theme=dark&repo=terraform-vercel-template" />
-</details
+</details>
 
 <details>
-<summary>Npm Packages (4)</summary>
+<summary><span >Npm Packages</span></summary>
 <br />
 <div>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=mjyocca&theme=dark&repo=async-parallel-limit" />
